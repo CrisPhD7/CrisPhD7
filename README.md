@@ -42,5 +42,6 @@ https://github.com/emptymalei/awesome-research
   ## 🌐 &nbsp; You can find me on:
   - [LinkedIn](https://www.linkedin.com/in/cristina-perez-martinez-22426110b)
   - [Twitter](https://x.com/Cris_Prz95)
+  - [ResearchGate](https://www.researchgate.net/profile/Cristina-Perez-75)
   - 📧 cristinaprz95@gmail.com
   
