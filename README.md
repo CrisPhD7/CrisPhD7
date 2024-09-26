@@ -36,5 +36,5 @@ https://github.com/emptymalei/awesome-research
   ## 🧮 &nbsp;Skills
 
   ## 🌐 &nbsp; You can find me on:
-  - [LinkedIn](www.linkedin.com/in/cristina-perez-martinez-22426110b) 
+  - [LinkedIn](https://www.linkedin.com/in/cristina-perez-martinez-22426110b) 
   
