@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ** Good examples:
 https://github.com/thiteixeira#hi-there-
+https://github.com/goldboy225
+https://github.com/roddhjav
+https://github.com/Lynsay
+
 
 ** Interesting webs:
 https://getemoji.com/#objects
@@ -37,5 +41,6 @@ https://github.com/emptymalei/awesome-research
 
   ## 🌐 &nbsp; You can find me on:
   - [LinkedIn](https://www.linkedin.com/in/cristina-perez-martinez-22426110b)
+  - [Twitter](https://x.com/Cris_Prz95)
   - 📧 cristinaprz95@gmail.com
   
