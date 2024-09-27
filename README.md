@@ -5,7 +5,7 @@
   - 🌱 I'm currently working on Biomedical Signal Interpretation & Computational Simulation (BSICoS) group, from University of Zaragoza (Spain). My research is focused on ECG signal processing techniques to detect non-invasive biomarkers related to arrhythmic risk identification.
   - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology (in progress).
   - 📈 Collaborations are always welcome! 
-  - 🌍 Murcia/Zaragoza (Spain)
+  - 🌍 Murcia/Zaragoza (Spain).
 
  <!-- ### 🧮 &nbsp;Skills
   - Signal processing.
@@ -18,7 +18,7 @@
   - [Twitter](https://x.com/Cris_Prz95)
   - [ResearchGate](https://www.researchgate.net/profile/Cristina-Perez-75)
     
-📧 cristinaprz95@gmail.com
+📧 cperezmrtz@outlook.com
   
 
 
