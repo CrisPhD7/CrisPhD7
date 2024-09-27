@@ -3,7 +3,7 @@
   ### 🧭 &nbsp;About Me
   - 📚 Ph.D. cantidate in Biomedical Engineering.
   - 🌱 I'm currently working on Biomedical Signal Interpretation & Computational Simulation (BSICoS) group, from University of Zaragoza (Spain). My research is focused on ECG signal processing techniques to detect non-invasive biomarkers related to arrhythmic risk identification.
-  - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology (in progress).
+  - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology.
   - 📈 Collaborations are always welcome! 
 
  <!-- ### 🧮 &nbsp;Skills
