@@ -3,19 +3,22 @@
   ### 🧭 &nbsp;About Me
   - 📚 Ph.D. cantidate in Biomedical Engineering.
   - 🌱 I'm currently working on Biomedical Signal Interpretation & Computational Simulation (BSICoS) group, from University of Zaragoza (Spain). My research is focused on ECG signal processing techniques to detect non-invasive biomarkers related to arrhythmic risk identification.
-  - 💬...
-  - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology (in progress). 
+  - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology (in progress).
+  - 📈 Collaborations are always welcome! 
   - 🌍 Murcia/Zaragoza (Spain)
 
-  <br>
-
-  ### 🧮 &nbsp;Skills
+ <!-- ### 🧮 &nbsp;Skills
+  - Signal processing.
+  - Statistical analysis.
+  - Languages and tools: Matlab, Python, R, Rstudio, C, C++.
+  -->
 
   ### 🌐 &nbsp; You can find me on:
   - [LinkedIn](https://www.linkedin.com/in/cristina-perez-martinez-22426110b)
   - [Twitter](https://x.com/Cris_Prz95)
   - [ResearchGate](https://www.researchgate.net/profile/Cristina-Perez-75)
-  - 📧 cristinaprz95@gmail.com
+    
+📧 cristinaprz95@gmail.com
   
 
 
