@@ -5,7 +5,6 @@
   - 🌱 I'm currently working on Biomedical Signal Interpretation & Computational Simulation (BSICoS) group, from University of Zaragoza (Spain). My research is focused on ECG signal processing techniques to detect non-invasive biomarkers related to arrhythmic risk identification.
   - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology (in progress).
   - 📈 Collaborations are always welcome! 
-  - 🌍 Murcia/Zaragoza (Spain).
 
  <!-- ### 🧮 &nbsp;Skills
   - Signal processing.
