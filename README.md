@@ -1,4 +1,23 @@
-# Hi there 👋
+## Hi there 👋🤗
+
+  ### 🧭 &nbsp;About Me
+  - 📚 Ph.D. cantidate in Biomedical Engineering.
+  - 🌱 I'm currently working on Biomedical Signal Interpretation & Computational Simulation (BSICoS) group, from University of Zaragoza (Spain). My research is focused on ECG signal processing techniques to detect non-invasive biomarkers related to arrhythmic risk identification.
+  - 💬...
+  - 🎓 Research interests: ECG processing to improve cardiovascular diagnosis. Sport cardiology (in progress). 
+  - 🌍 Murcia/Zaragoza (Spain)
+
+  <br>
+
+  ### 🧮 &nbsp;Skills
+
+  ### 🌐 &nbsp; You can find me on:
+  - [LinkedIn](https://www.linkedin.com/in/cristina-perez-martinez-22426110b)
+  - [Twitter](https://x.com/Cris_Prz95)
+  - [ResearchGate](https://www.researchgate.net/profile/Cristina-Perez-75)
+  - 📧 cristinaprz95@gmail.com
+  
+
 
 <!--
 **CrisPhD7/CrisPhD7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,20 +52,3 @@ https://github.com/jrjohansson/scientific-python-lectures
 https://github.com/emptymalei/awesome-research
 
 -->
-
-
-  ## 🧭 &nbsp;About Me
-
-  - 📚 PhD cantidate in Biomedical Engineering.
-  - 💬...
-
-  <br>
-
-  ## 🧮 &nbsp;Skills
-
-  ## 🌐 &nbsp; You can find me on:
-  - [LinkedIn](https://www.linkedin.com/in/cristina-perez-martinez-22426110b)
-  - [Twitter](https://x.com/Cris_Prz95)
-  - [ResearchGate](https://www.researchgate.net/profile/Cristina-Perez-75)
-  - 📧 cristinaprz95@gmail.com
-  
